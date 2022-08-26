@@ -10,17 +10,19 @@ This repository contains a curated list of resources related to privacy engineer
      
 For corrections, suggestions, or missing papers, please either open an issue or submit a pull request.             
              
-# Books             
-- [**Privacy Engineering** - Nishant Bhajaria](https://www.manning.com/books/privacy-engineering)           
-- [**AI & Privacy: How To Find Balance** - Punit Bhatia | Eline Chivot ](https://www.amazon.com/AI-Privacy-How-Find-Balance/dp/B0914PW9N8) 
-- [**The Privacy Engineer's Manifesto Getting from Policy to Code to QA to Value** - Dennedy, Michelle, Fox, Jonathan, Finneran, Tom - Dr. Ann Cavoukian, Ph.D., contributing.](https://www.apress.com/us/book/9781430263555)          
-- [**An Introduction to Privacy for Technology Professionals** - Travis Breaux](https://iapp.org/store/books/a191P000003nSa4QAE)           
-- [**Strategic Privacy by Design** - R. Jason Cronk](https://iapp.org/store/books/a191a0000034aEeAAI/)          
-- [**Software Security: Building Security In** - Gary McGraw](https://www.goodreads.com/book/show/760789.Software_Security)    
-- [**The Architecture of Privacy: On Engineering Technologies that Can Deliver Trustworthy Safeguards** - Courtney Bowman, Ari Gesher, John K. Grant](https://www.goodreads.com/book/show/22743596-privacy-engineering)    
-- [**Privacy Engineering: A data flow and ontological approach** - Ian Oliver](https://www.goodreads.com/book/show/22743596-privacy-engineering)    
-- [**Information Privacy Engineering and Privacy by Design: Understanding Privacy Threats, Technology, and Regulations Based on Standards and Best Practices** - William Stallings](https://www.goodreads.com/book/show/44491826-information-privacy-engineering-and-privacy-by-design)   
-- [**Privacy Design Strategies: (The Little Blue Book)** -  Jaap-Henk Hoepman](https://www.cs.ru.nl/~jhh/publications/pds-booklet.pdf)
+# Books   
+- (Apr 2022) [**Privacy Design Strategies: (The Little Blue Book)** -  Jaap-Henk Hoepman](https://www.cs.ru.nl/~jhh/publications/pds-booklet.pdf)
+- (Mar 2022) [**Strategic Privacy by Design 2nd Edition** - R. Jason Cronk](https://iapp.org/store/books/a191P000004nwc5QAA/)   
+- (Jan 2022) [**Privacy Engineering** - Nishant Bhajaria](https://www.manning.com/books/privacy-engineering)           
+- (Mar 2021) [**AI & Privacy: How To Find Balance** - Punit Bhatia | Eline Chivot ](https://www.amazon.com/AI-Privacy-How-Find-Balance/dp/B0914PW9N8) 
+- (2020) [**An Introduction to Privacy for Technology Professionals** - Travis Breaux](https://iapp.org/store/books/a191P000003nSa4QAE)  
+- (2019) [**Information Privacy Engineering and Privacy by Design: Understanding Privacy Threats, Technology, and Regulations Based on Standards and Best Practices** - William Stallings](https://www.goodreads.com/book/show/44491826-information-privacy-engineering-and-privacy-by-design) 
+- (2015) [**The Architecture of Privacy: On Engineering Technologies that Can Deliver Trustworthy Safeguards** - Courtney Bowman, Ari Gesher, John K. Grant](https://www.goodreads.com/book/show/24750984-the-architecture-of-privacy)   
+- (2014) [**The Privacy Engineer's Manifesto Getting from Policy to Code to QA to Value** - Dennedy, Michelle, Fox, Jonathan, Finneran, Tom - Dr. Ann Cavoukian, Ph.D., contributing.](https://www.apress.com/us/book/9781430263555)
+- (2014) [**Privacy Engineering: A data flow and ontological approach** - Ian Oliver](https://www.goodreads.com/book/show/22743596-privacy-engineering)  \
+- (2009) [**Translucent Databases 2nd Edition** - Peter Wayner ](https://www.wayner.org/node/39)
+- (2006) [**Software Security: Building Security In** - Gary McGraw](https://www.goodreads.com/book/show/760789.Software_Security)    
+
            
 # Publications & Projects
 - [**Privacy Cookbook for Business Processes** - A collection of Business Process Modelling (BPM) privacy resources](https://github.com/michael-oneill/IPEN-cookbook/blob/master/Privacy%20Cookbook%20for%20Business%20Processes.md)
@@ -99,7 +101,8 @@ For corrections, suggestions, or missing papers, please either open an issue or 
 - [**Understanding the GDPR - University of Groningen**](https://www.futurelearn.com/courses/general-data-protection-regulation)
 - [**Protecting Health Data in the Modern Age: Getting to Grips with the GDPR - University of Groningen**](https://www.futurelearn.com/courses/protecting-health-data)
 - [**Privacy Engineer Sample Job Description**](https://iapp.org/resources/article/privacy-engineer-sample-job-description/)
-- [**OpenMind** - An open-source community of over 10,000 researchers, engineers, mentors and enthusiasts committed to making a fairer more prosperous world.](https://courses.openmined.org/courses)
+- [**OpenMined** - An open-source community of over 10,000 researchers, engineers, mentors and enthusiasts committed to making a fairer more prosperous world.](https://courses.openmined.org/courses)
+- [**NIST Privacy Engineering Collaboration Space**](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space)
      
      
  
